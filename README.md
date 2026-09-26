@@ -9,3 +9,5 @@ Web application security learner with a software development background.
 **Stack:** Python · JavaScript · HTML/CSS · MySQL · Linux
 
 📫 [LinkedIn](https://www.linkedin.com/in/lucasperaccini) · [Bugcrowd](https://bugcrowd.com/maybeseeker)
+
+🇦🇷 Native Spanish speaker, currently improving my English.
